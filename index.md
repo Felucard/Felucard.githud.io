@@ -37,3 +37,9 @@ Español: Castellano
 Catalá
 
 Inglés (B2)
+
+### Otras paginas
+
+- <a href="html"> Castelvania </a>
+- <a href="html"> Pagina primigenia </a>
+- <a href="html"> Lore </a>
