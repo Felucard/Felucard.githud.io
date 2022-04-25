@@ -1,6 +1,6 @@
 # CURRICULUM
 
-![Felu](https://user-images.githubusercontent.com/104200597/165049961-6cb2a947-168a-481f-853c-d6c496614d6d.jpg)
+<img src="Felu.jpg" width="200" heigh="120">
 
 Phone: 712 52 86 57 
 
