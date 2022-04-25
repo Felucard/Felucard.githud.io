@@ -26,6 +26,10 @@ Actualmente curso el 2 año del fp de SMX, ademas en el primer año del ft me sa
 
 -Altamente responsable y confiable
 
+## Competencias Profesional
+
+En un futuro estudiare el ciclo superior de ASIX y me apuntare a una academia de ingles.
+
 ### Idiomas
 
 Español: Castellano
