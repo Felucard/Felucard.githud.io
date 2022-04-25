@@ -1,5 +1,4 @@
 # CURRICULUM
-
 <img src="Felu.jpg" width="200" heigh="120">
 
 Phone: 712 52 86 57 
